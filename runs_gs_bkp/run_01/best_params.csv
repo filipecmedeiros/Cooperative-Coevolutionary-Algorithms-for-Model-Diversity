@@ -1,0 +1,2 @@
+sarima,svr,mlp
+"{'p': 0, 'd': 0, 'q': 4, 's': 12}","{'kernel': 'linear', 'c': 1.0, 'gamma': 'scale', 'epsilon': 0.5}","{'hidden_layer_sizes': 20, 'learning_rate': 0.1}"
